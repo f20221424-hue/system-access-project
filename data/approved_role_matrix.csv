@@ -1,0 +1,11 @@
+role,allowed_systems
+Treasury Analyst,Treasury Portal|Funding Dashboard
+Treasury Manager,Treasury Portal|Funding Dashboard|SWIFT Gateway
+Finance Analyst,GL System|Reporting Platform
+Finance Manager,GL System|Reporting Platform|Treasury Portal
+Risk Analyst,Risk Engine|Stress Testing Tool
+Risk Manager,Risk Engine|Stress Testing Tool|Trading System
+Operations Analyst,Operations Hub|Settlement System
+Operations Manager,Operations Hub|Settlement System|SWIFT Gateway
+Compliance Analyst,Compliance Portal|AML Monitoring
+Compliance Manager,Compliance Portal|AML Monitoring|Reporting Platform

@@ -1,0 +1,41 @@
+user_id,employee_name,department,location,manager,current_role,employment_status
+EMP1001,Anna Mueller,Treasury,Zurich,Dr. Helena Vogel,Treasury Analyst,Active
+EMP1002,Marco Rossi,Finance,London,James Whitfield,Treasury Manager,Active
+EMP1003,Sophie Chen,Risk,New York,Sarah Nakamura,Finance Analyst,Active
+EMP1004,James Williams,Operations,Singapore,Michael Torres,Finance Manager,Active
+EMP1005,Priya Patel,Compliance,Hong Kong,Dr. Anika Sharma,Risk Analyst,Active
+EMP1006,Liam O'Brien,Treasury,Zurich,Robert Klein,Risk Manager,Terminated
+EMP1007,Elena Kowalski,Finance,London,Elena Petrov,Operations Analyst,Active
+EMP1008,David Nakamura,Risk,New York,David Okonkwo,Operations Manager,Active
+EMP1009,Yuki Schmidt,Operations,Singapore,Dr. Helena Vogel,Compliance Analyst,Active
+EMP1010,Olivia Dubois,Compliance,Hong Kong,James Whitfield,Compliance Manager,Active
+EMP1011,Raj Singh,Treasury,Zurich,Sarah Nakamura,Treasury Analyst,Active
+EMP1012,Emma Anderson,Finance,London,Michael Torres,Treasury Manager,Active
+EMP1013,Thomas Garcia,Risk,New York,Dr. Anika Sharma,Finance Analyst,Terminated
+EMP1014,Nina Kim,Operations,Singapore,Robert Klein,Finance Manager,Active
+EMP1015,Carlos Hoffman,Compliance,Hong Kong,Elena Petrov,Risk Analyst,Active
+EMP1016,Fatima Ali,Treasury,Zurich,David Okonkwo,Risk Manager,Active
+EMP1017,Michael Taylor,Finance,London,Dr. Helena Vogel,Operations Analyst,Active
+EMP1018,Laura Bernard,Risk,New York,James Whitfield,Operations Manager,Active
+EMP1019,Wei Zhang,Operations,Singapore,Sarah Nakamura,Compliance Analyst,Active
+EMP1020,Sarah Johnson,Compliance,Hong Kong,Michael Torres,Compliance Manager,Active
+EMP1021,Daniel Khan,Treasury,Zurich,Dr. Anika Sharma,Treasury Analyst,Active
+EMP1022,Aisha Lee,Finance,London,Robert Klein,Treasury Manager,Active
+EMP1023,Robert Fischer,Risk,New York,Elena Petrov,Finance Analyst,Active
+EMP1024,Claire Martin,Operations,Singapore,David Okonkwo,Finance Manager,Terminated
+EMP1025,Hassan Okonkwo,Compliance,Hong Kong,Dr. Helena Vogel,Risk Analyst,Active
+EMP1026,Julia Santos,Treasury,Zurich,James Whitfield,Risk Manager,Active
+EMP1027,Kevin Nguyen,Finance,London,Sarah Nakamura,Operations Analyst,Active
+EMP1028,Mei Brown,Risk,New York,Michael Torres,Operations Manager,Active
+EMP1029,Patrick Ivanov,Operations,Singapore,Dr. Anika Sharma,Compliance Analyst,Active
+EMP1030,Isabella Murphy,Compliance,Hong Kong,Robert Klein,Compliance Manager,Active
+EMP1031,Ahmed Hassan,Treasury,Zurich,Elena Petrov,Treasury Analyst,Active
+EMP1032,Grace Wright,Finance,London,David Okonkwo,Treasury Manager,Terminated
+EMP1033,Stefan Moreau,Risk,New York,Dr. Helena Vogel,Finance Analyst,Active
+EMP1034,Leila Sharma,Operations,Singapore,James Whitfield,Finance Manager,Active
+EMP1035,Brian Clark,Compliance,Hong Kong,Sarah Nakamura,Risk Analyst,Active
+EMP1036,Chloe Weber,Treasury,Zurich,Michael Torres,Risk Manager,Active
+EMP1037,Vikram Park,Finance,London,Dr. Anika Sharma,Operations Analyst,Active
+EMP1038,Hannah Evans,Risk,New York,Robert Klein,Operations Manager,Active
+EMP1039,Felix Rahman,Operations,Singapore,Elena Petrov,Compliance Analyst,Active
+EMP1040,Zara Cohen,Compliance,Hong Kong,David Okonkwo,Compliance Manager,Active

@@ -1,0 +1,133 @@
+request_id,user_id,requested_system,request_date,approval_status,closure_status
+REQ2024001,EMP1001,Compliance Portal,2026-06-05,Approved,Open
+REQ2024002,EMP1002,SWIFT Gateway,2026-05-16,Pending,Open
+REQ2024003,EMP1003,GL System,2026-05-22,Rejected,Closed
+REQ2024004,EMP1004,Treasury Portal,2026-03-31,Approved,Open
+REQ2024005,EMP1005,Risk Engine,2026-06-05,Rejected,Closed
+REQ2024006,EMP1006,Risk Engine,2026-04-05,Approved,Open
+REQ2024007,EMP1007,Operations Hub,2026-03-17,Approved,Open
+REQ2024008,EMP1008,SWIFT Gateway,2026-04-12,Rejected,Closed
+REQ2024009,EMP1009,AML Monitoring,2026-05-19,Approved,Open
+REQ2024010,EMP1010,Reporting Platform,2026-05-04,Rejected,Closed
+REQ2024011,EMP1011,GL System,2026-05-12,Approved,Open
+REQ2024012,EMP1012,Funding Dashboard,2026-05-21,Pending,Open
+REQ2024013,EMP1013,GL System,2026-05-27,Rejected,Closed
+REQ2024014,EMP1014,Reporting Platform,2026-05-06,Pending,Open
+REQ2024015,EMP1015,Risk Engine,2026-05-24,Rejected,Closed
+REQ2024016,EMP1016,Stress Testing Tool,2026-05-02,Approved,Open
+REQ2024017,EMP1017,Settlement System,2026-05-31,Approved,Open
+REQ2024018,EMP1018,Operations Hub,2026-05-02,Approved,Open
+REQ2024019,EMP1019,Compliance Portal,2026-05-27,Approved,Open
+REQ2024020,EMP1020,AML Monitoring,2026-03-19,Pending,Open
+REQ2024021,EMP1021,Risk Engine,2026-05-19,Approved,Open
+REQ2024022,EMP1022,Funding Dashboard,2026-05-13,Pending,Open
+REQ2024023,EMP1023,GL System,2026-05-05,Rejected,Closed
+REQ2024024,EMP1024,Treasury Portal,2026-03-23,Approved,Open
+REQ2024025,EMP1025,Risk Engine,2026-04-10,Approved,Open
+REQ2024026,EMP1026,Stress Testing Tool,2026-03-19,Pending,Open
+REQ2024027,EMP1027,Operations Hub,2026-06-01,Pending,Open
+REQ2024028,EMP1028,Operations Hub,2026-04-29,Approved,Open
+REQ2024029,EMP1029,AML Monitoring,2026-05-12,Pending,Open
+REQ2024030,EMP1030,Reporting Platform,2026-03-17,Pending,Open
+REQ2024031,EMP1031,Settlement System,2026-04-19,Approved,Open
+REQ2024032,EMP1032,SWIFT Gateway,2026-05-10,Pending,Open
+REQ2024033,EMP1033,GL System,2026-05-22,Rejected,Closed
+REQ2024034,EMP1034,GL System,2026-03-26,Pending,Open
+REQ2024035,EMP1035,Stress Testing Tool,2026-05-11,Rejected,Closed
+REQ2024036,EMP1036,Risk Engine,2026-06-02,Rejected,Closed
+REQ2024037,EMP1037,Operations Hub,2026-05-19,Approved,Open
+REQ2024038,EMP1038,SWIFT Gateway,2026-05-31,Rejected,Closed
+REQ2024039,EMP1039,AML Monitoring,2026-04-10,Rejected,Closed
+REQ2024040,EMP1040,Reporting Platform,2026-06-07,Pending,Open
+REQ2024041,EMP1001,Compliance Portal,2026-03-13,Approved,Open
+REQ2024042,EMP1002,SWIFT Gateway,2026-04-30,Pending,Open
+REQ2024043,EMP1003,Reporting Platform,2026-03-18,Rejected,Closed
+REQ2024044,EMP1004,Reporting Platform,2026-04-14,Approved,Open
+REQ2024045,EMP1005,Risk Engine,2026-05-06,Rejected,Closed
+REQ2024046,EMP1006,Trading System,2026-05-26,Approved,Open
+REQ2024047,EMP1007,Settlement System,2026-04-22,Approved,Open
+REQ2024048,EMP1008,Operations Hub,2026-04-28,Approved,Open
+REQ2024049,EMP1009,AML Monitoring,2026-04-23,Approved,Open
+REQ2024050,EMP1010,AML Monitoring,2026-05-09,Approved,Open
+REQ2024051,EMP1011,Trading System,2026-05-29,Approved,Open
+REQ2024052,EMP1012,Treasury Portal,2026-05-01,Pending,Open
+REQ2024053,EMP1013,Reporting Platform,2026-05-31,Rejected,Closed
+REQ2024054,EMP1014,Treasury Portal,2026-03-16,Approved,Open
+REQ2024055,EMP1015,Stress Testing Tool,2026-04-02,Approved,Open
+REQ2024056,EMP1016,Trading System,2026-03-31,Rejected,Closed
+REQ2024057,EMP1017,Operations Hub,2026-03-15,Pending,Open
+REQ2024058,EMP1018,SWIFT Gateway,2026-04-03,Pending,Open
+REQ2024059,EMP1019,AML Monitoring,2026-05-11,Approved,Open
+REQ2024060,EMP1020,Compliance Portal,2026-03-25,Pending,Open
+REQ2024061,EMP1021,Stress Testing Tool,2026-05-10,Approved,Open
+REQ2024062,EMP1022,SWIFT Gateway,2026-05-17,Pending,Open
+REQ2024063,EMP1023,GL System,2026-03-20,Rejected,Closed
+REQ2024064,EMP1024,GL System,2026-05-31,Approved,Open
+REQ2024065,EMP1025,Risk Engine,2026-04-04,Pending,Open
+REQ2024066,EMP1026,Risk Engine,2026-04-07,Pending,Open
+REQ2024067,EMP1027,Operations Hub,2026-03-27,Approved,Open
+REQ2024068,EMP1028,SWIFT Gateway,2026-04-09,Rejected,Closed
+REQ2024069,EMP1029,AML Monitoring,2026-05-27,Approved,Open
+REQ2024070,EMP1030,Reporting Platform,2026-04-15,Rejected,Closed
+REQ2024071,EMP1031,SWIFT Gateway,2026-04-10,Approved,Open
+REQ2024072,EMP1032,SWIFT Gateway,2026-05-23,Pending,Open
+REQ2024073,EMP1033,GL System,2026-04-18,Rejected,Closed
+REQ2024074,EMP1034,Treasury Portal,2026-05-26,Pending,Open
+REQ2024075,EMP1035,Risk Engine,2026-04-01,Approved,Open
+REQ2024076,EMP1036,Stress Testing Tool,2026-05-16,Approved,Open
+REQ2024077,EMP1037,Settlement System,2026-05-30,Rejected,Closed
+REQ2024078,EMP1038,Settlement System,2026-03-17,Approved,Open
+REQ2024079,EMP1039,Compliance Portal,2026-05-09,Approved,Open
+REQ2024080,EMP1040,Compliance Portal,2026-04-08,Rejected,Closed
+REQ2024081,EMP1001,Operations Hub,2026-04-18,Approved,Open
+REQ2024082,EMP1002,Treasury Portal,2026-05-19,Pending,Open
+REQ2024083,EMP1003,Reporting Platform,2026-04-20,Rejected,Closed
+REQ2024084,EMP1004,Reporting Platform,2026-04-15,Rejected,Closed
+REQ2024085,EMP1005,Stress Testing Tool,2026-05-02,Approved,Open
+REQ2024086,EMP1006,Risk Engine,2026-03-31,Approved,Open
+REQ2024087,EMP1007,Operations Hub,2026-06-02,Pending,Open
+REQ2024088,EMP1008,SWIFT Gateway,2026-04-02,Rejected,Closed
+REQ2024089,EMP1009,Compliance Portal,2026-05-29,Approved,Open
+REQ2024090,EMP1010,Compliance Portal,2026-05-31,Approved,Open
+REQ2024091,EMP1011,Operations Hub,2026-04-18,Approved,Open
+REQ2024092,EMP1012,Treasury Portal,2026-04-26,Pending,Open
+REQ2024093,EMP1013,GL System,2026-03-24,Rejected,Closed
+REQ2024094,EMP1014,GL System,2026-03-16,Approved,Open
+REQ2024095,EMP1015,Stress Testing Tool,2026-03-15,Pending,Open
+REQ2024096,EMP1016,Trading System,2026-05-06,Pending,Open
+REQ2024097,EMP1017,Settlement System,2026-03-18,Approved,Open
+REQ2024098,EMP1018,Settlement System,2026-05-30,Rejected,Closed
+REQ2024099,EMP1019,Compliance Portal,2026-03-28,Rejected,Closed
+REQ2024100,EMP1020,Compliance Portal,2026-05-12,Approved,Open
+REQ2024101,EMP1021,Stress Testing Tool,2026-05-06,Approved,Open
+REQ2024102,EMP1022,Treasury Portal,2026-04-25,Pending,Open
+REQ2024103,EMP1023,Reporting Platform,2026-05-31,Rejected,Closed
+REQ2024104,EMP1024,GL System,2026-05-03,Approved,Open
+REQ2024105,EMP1025,Risk Engine,2026-03-31,Rejected,Closed
+REQ2024106,EMP1026,Trading System,2026-03-17,Pending,Open
+REQ2024107,EMP1027,Operations Hub,2026-03-16,Pending,Open
+REQ2024108,EMP1028,Operations Hub,2026-05-25,Approved,Open
+REQ2024109,EMP1029,Compliance Portal,2026-05-03,Approved,Open
+REQ2024110,EMP1030,Reporting Platform,2026-04-26,Approved,Open
+REQ2024111,EMP1031,Operations Hub,2026-03-13,Approved,Open
+REQ2024112,EMP1032,SWIFT Gateway,2026-04-27,Pending,Open
+REQ2024113,EMP1033,Reporting Platform,2026-04-07,Rejected,Closed
+REQ2024114,EMP1034,Reporting Platform,2026-03-19,Approved,Open
+REQ2024115,EMP1035,Stress Testing Tool,2026-06-08,Pending,Open
+REQ2024116,EMP1036,Stress Testing Tool,2026-05-06,Approved,Open
+REQ2024117,EMP1037,Operations Hub,2026-04-15,Rejected,Closed
+REQ2024118,EMP1038,SWIFT Gateway,2026-05-30,Approved,Open
+REQ2024119,EMP1039,Compliance Portal,2026-04-22,Approved,Open
+REQ2024120,EMP1040,Reporting Platform,2026-05-23,Approved,Open
+REQ2024200,EMP1001,Compliance Portal,2026-06-05,Pending,Open
+REQ2024201,EMP1004,Treasury Portal,2026-03-31,Pending,Open
+REQ2024202,EMP1007,Operations Hub,2026-03-17,Pending,Open
+REQ2024203,EMP1010,Reporting Platform,2026-05-04,Pending,Open
+REQ2024204,EMP1013,GL System,2026-05-27,Pending,Open
+REQ2024300,EMP1001,Treasury Portal,2026-05-30,Approved,Open
+REQ2024301,EMP1001,Funding Dashboard,2026-05-29,Approved,Open
+REQ2024302,EMP1001,GL System,2026-05-28,Approved,Open
+REQ2024303,EMP1001,Reporting Platform,2026-05-27,Approved,Open
+REQ2024304,EMP1001,Risk Engine,2026-05-26,Approved,Open
+REQ2024305,EMP1001,Operations Hub,2026-05-25,Approved,Open
+REQ2024306,EMP1001,Compliance Portal,2026-05-24,Approved,Open
